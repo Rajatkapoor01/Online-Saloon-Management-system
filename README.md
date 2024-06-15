@@ -82,9 +82,6 @@ The Men Online Salon Management System is a web-based application developed prim
    - Regularly update the system with new features and security patches.
    - Provide technical support and user training.
 
-## Project Management
-- **Tools:** Jira for issue tracking, Trello for task management, Slack for team communication.
-- **Team:** Project Manager, PHP Developers, Frontend Developers, QA Testers, Database Administrator.
 
 ## Screenshots
 
