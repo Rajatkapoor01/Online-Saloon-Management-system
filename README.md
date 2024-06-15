@@ -99,7 +99,7 @@ The Men Online Salon Management System is a web-based application developed prim
 ![SS8](https://github.com/Rajatkapoor01/MEN-Online-Saloon-Management-system/blob/main/WORKING%20IMAGES/Screenshot%208.png)
 ![SS9](https://github.com/Rajatkapoor01/MEN-Online-Saloon-Management-system/blob/main/WORKING%20IMAGES/Screenshot%209.png)
 ![SS10](https://github.com/Rajatkapoor01/MEN-Online-Saloon-Management-system/blob/main/WORKING%20IMAGES/Screenshot%2010.png)
-![SS11(https://github.com/Rajatkapoor01/MEN-Online-Saloon-Management-system/blob/main/WORKING%20IMAGES/Screenshot%2011.png)
+![SS11](https://github.com/Rajatkapoor01/MEN-Online-Saloon-Management-system/blob/main/WORKING%20IMAGES/Screenshot%2011.png)
 
 ## How to Run the Project
 
